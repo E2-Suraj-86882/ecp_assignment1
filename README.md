@@ -1,1 +1,1 @@
-# ecp_assignment1
+# c_programming

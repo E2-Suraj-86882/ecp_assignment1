@@ -1,4 +1,4 @@
-// ASSIGNMENT 1:Q8
+// ASSIGNMENT 1:Q8 => avg of 3no.
 
 
 #include<stdio.h>
